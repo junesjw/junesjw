@@ -2,13 +2,13 @@
 <h3 align="center">I'm a Software Developer from Germany specialized in C#, C/C++. In my free time, I like to work on all kinds of projects, which you can see on my GitHub page.</h3>
 
 - 🔭 I’m currently working on these projects:
-  - [A Discord bot](https://github.com/junesjw/tec-xx)
+  - [Discord Bot](https://github.com/junesjw/tec-xx)
+  - [Expense Tracker](https://github.com/junesjw/expense-tracker)
+  - [Baccarat Game](https://github.com/junesjw/baccarat-game-simulator)
 
 - 👯 I’m looking to collaborate on [SerenityOS](https://github.com/SerenityOS/serenity)
 
 - 📫 How to reach me: **weberjunes@web.de**
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junesjw&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="junesjw" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=junesjw&theme=blueberry)](https://git.io/streak-stats)
 
