@@ -5,6 +5,7 @@
   - [Discord Bot](https://github.com/junesjw/tec-xx)
   - [Expense Tracker](https://github.com/junesjw/expense-tracker)
   - [Baccarat Game](https://github.com/junesjw/baccarat-game-simulator)
+  - [Water Reminder App](https://github.com/junesjw/water-reminder-app)
 
 - 👯 I’m looking to collaborate on [SerenityOS](https://github.com/SerenityOS/serenity)
 
