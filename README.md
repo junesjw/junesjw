@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on these projects:
   - [Discord Bot](https://github.com/junesjw/tec-xx)
-  - [UART Shell](https://github.com/junesjw/expense-tracker)
+  - [UART Shell](https://github.com/junesjw/uart-shell)
 
 - 👯 I’m looking to collaborate on [SerenityOS](https://github.com/SerenityOS/serenity)
 
