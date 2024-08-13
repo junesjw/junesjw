@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Junes</h1>
-<h3 align="center">I'm a Software Developer from Germany specialized in C#, C/C++. In my free time, I like to work on all kinds of projects, which you can see on my GitHub page.</h3>
+<h3 align="center">I'm a Software Engineer from Germany specialized in C#, C/C++. In my free time, I like to work on all kinds of projects, which you can see on my GitHub page.</h3>
 
 - 🔭 I’m currently working on these projects:
   - [Discord Bot](https://github.com/junesjw/tec-xx)
-  - [Expense Tracker](https://github.com/junesjw/expense-tracker)
-  - [Baccarat Game](https://github.com/junesjw/baccarat-game-simulator)
-  - [Water Reminder App](https://github.com/junesjw/water-reminder-app)
+  - [UART Shell](https://github.com/junesjw/expense-tracker)
 
 - 👯 I’m looking to collaborate on [SerenityOS](https://github.com/SerenityOS/serenity)
 
